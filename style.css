@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+    font-family: "SUSE", system-ui;
+
+}
+
+
+body {
+    background-color: rgb(37, 88, 104);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+h2 {
+    width: 299px;
+    height: 20px;
+    top: 656px;
+    margin-left: 250px;
+    left: 870px;
+    gap: 0px;
+    opacity: 0px;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 37.5px;
+    text-align: left;
+    color: aliceblue;
+
+}
+
+
+input {
+    background: #281f31;
+    border-radius: 10px;
+    border: 1px solid #483d53;
+    width: 342px;
+    height: 74px;
+    Top: 500px;
+    margin-top: 500px;
+    padding-left: 20px;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 47px;
+    color: aliceblue;
+    opacity: 0.7;
+    margin-top: 250px;
+
+}
+
+.input-min {
+    margin-right: 62px;
+}
+
+button {
+    background: #483d53;
+    box-shadow: 0px 18px 40px #615869;
+    width: 342px;
+    height: 72px;
+    top: 858px;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 36px;
+    margin-top: 150px;
+    border: none;
+    cursor: pointer;
+    margin-left: 180px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 10px;
+
+}
